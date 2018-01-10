@@ -34,4 +34,7 @@
 - 十五、[尚硅谷SSM高级视频](https://pan.baidu.com/s/1o7CSP8e) 
 - 十六、[尚硅谷MySQL基础视频178集](https://pan.baidu.com/s/1i46vwZN) 密码: msnm
 
+---
+- [JAVA数据结构算法视频教程](http://pan.baidu.com/s/1i5E7yvz) 密码:y2t5
+  
   
