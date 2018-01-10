@@ -37,4 +37,8 @@
 ---
 - [JAVA数据结构算法视频教程](http://pan.baidu.com/s/1i5E7yvz) 密码:y2t5
   
-  
+---
+### 慕课网
+- [精通高级RxJava 2响应式编程思想](https://pan.baidu.com/s/1i56Gnul) 密码:1f06
+- [java秒杀系统方案优化高性能高并实战](https://pan.baidu.com/s/1pLqpaZp) 密码:97m2
+
