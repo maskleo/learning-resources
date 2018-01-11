@@ -1,7 +1,5 @@
 # learning-resources
 
-
-
 ## [java](https://github.com/maskleo/learning-resources/tree/master/java)
  - [java视频资源.md](https://github.com/maskleo/learning-resources/blob/master/java/java%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90.md)
    
@@ -50,4 +48,5 @@ http://www.roncoo.com/course/view/af7d501667fe4a19a60e9467e6d2b3d9
  - 所有资源来自互联网，本人不对内容的真实性，完整性，合法性负责。
  - 当然，如果内容涉及到您的隐私，版权或者其他利益，请提供有效合法证明。
  - 有问题请前往提交[issues](https://github.com/maskleo/learning-resources/issues)。
+ - 如果你喜欢本项目可以点`Watch`持续关注！
  - [GPL-3.0](https://github.com/maskleo/learning-resources/community/license/new?branch=master&template=gpl-3.0)
