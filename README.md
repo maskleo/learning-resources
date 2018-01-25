@@ -65,6 +65,7 @@ http://www.roncoo.com/course/view/af7d501667fe4a19a60e9467e6d2b3d9
 - [18.ThinkPHP视频教程](https://pan.baidu.com/s/1ggiKvYV) 密码：7p5h 
 - [19.案例和总结](https://pan.baidu.com/s/1eTSNB5C) 密码：5rx7 
 - [20.天猫商城购物车实战](https://pan.baidu.com/s/1smVjb7v) 密码：cu4c 
+- [Java并发编程原理与实战（龙果学院）](https://pan.baidu.com/s/1mjsJM68) 密码：2p0b
 
 ## 免责申明
  - [GPL-3.0](https://github.com/maskleo/learning-resources/community/license/new?branch=master&template=gpl-3.0)
