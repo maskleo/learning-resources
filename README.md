@@ -71,5 +71,5 @@ http://www.roncoo.com/course/view/af7d501667fe4a19a60e9467e6d2b3d9
  - 所有资源来自互联网，本人不对内容的真实性，完整性，合法性负责。
  - 当然，如果内容涉及到您的隐私，版权或者其他利益，请提供有效合法证明。
  - 有问题(没找到自己想要的资料或者链接失效)请前往提交[issues](https://github.com/maskleo/learning-resources/issues)。
- - 如果你喜欢本项目可以点`Watch`持续关注,<font color=red>[下载](https://github.com/maskleo/learning-resources/archive/2018.1.25.zip)</font>当前版本资源！
+ - 如果你喜欢本项目可以点`Watch`持续关注,[<font color=red size=8>下载</font>](https://github.com/maskleo/learning-resources/archive/2018.1.25.zip)当前版本资源！
  - [GPL-3.0](https://github.com/maskleo/learning-resources/community/license/new?branch=master&template=gpl-3.0)
