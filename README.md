@@ -17,8 +17,7 @@
 - [微信开发视频及文档](https://pan.baidu.com/s/1miuzbAS) 密码:d9jt
 - [MUI视频教程](https://pan.baidu.com/s/1hrUOCBy) 密码:7cv7
 - [小程序源码](https://pan.baidu.com/s/1kWO9wd5) 密码:l20j
-- [龙果学院 叶子猿 深入理解Java虚拟机（jvm性能调优+内存模型+虚拟机原理）](
-https://pan.baidu.com/s/1bozQ1cV) 密码: a6eb
+- [龙果学院 叶子猿 深入理解Java虚拟机（jvm性能调优+内存模型+虚拟机原理）](https://pan.baidu.com/s/1i6HmJXz) 密码: iwsk
 - [系统架构师之Java虚拟机、OSGi—JVM高级性能架构项目实战开发](https://pan.baidu.com/s/1geNu1OJ) 密码: j48m
 - [Spark之Akka深入浅出实战经典 21课](http://pan.baidu.com/s/1bp00SyF) 密码：np88 解压密码：www.17zixueba.com&SpaRK02
 - [大量慕课网视频【需要的速度保存了】](http://pan.baidu.com/s/1eSerKjg) 密码：fv2c
