@@ -42,3 +42,4 @@
 - [精通高级RxJava 2响应式编程思想](https://pan.baidu.com/s/1i56Gnul) 密码:1f06
 - [java秒杀系统方案优化高性能高并实战](https://pan.baidu.com/s/1pLqpaZp) 密码:97m2
 
+- [尚硅谷RBAC权限模型](https://pan.baidu.com/s/1m5ePUQaYXD0oLEnxdNzpiw) 密码: sm4f
