@@ -20,7 +20,7 @@
 - [龙果学院 叶子猿 深入理解Java虚拟机（jvm性能调优+内存模型+虚拟机原理）](https://pan.baidu.com/s/1i6HmJXz) 密码: iwsk
 - [系统架构师之Java虚拟机、OSGi—JVM高级性能架构项目实战开发](https://pan.baidu.com/s/1geNu1OJ) 密码: j48m
 - [Spark之Akka深入浅出实战经典 21课](http://pan.baidu.com/s/1bp00SyF) 密码：np88 解压密码：www.17zixueba.com&SpaRK02
-- [大量慕课网视频【需要的速度保存了】](http://pan.baidu.com/s/1eSerKjg) 密码：fv2c
+- [大量慕课网视频【需要的速度保存了】](https://pan.baidu.com/s/1jNn2wufzlgB3BGERmXht2w) 密码：wln5
 - [动脑学院vip](http://pan.baidu.com/s/1skNGnCx) 密码：wzmw
 - [高级JAVA软件架构师实战培训系列视频教程](https://pan.baidu.com/s/1qY0Wyvi) 密码:ixx3
 - [龙果学院 微服务架构的分布式事务解决方案](https://pan.baidu.com/s/1miT2HAC) 密码：pgzz
