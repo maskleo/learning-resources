@@ -80,8 +80,6 @@ http://www.roncoo.com/course/view/af7d501667fe4a19a60e9467e6d2b3d9
 - [区块链相关](https://pan.baidu.com/s/1ggQeAJp) 密码: usxr
 - [从0到1，全面学透区块链](https://pan.baidu.com/s/1bqtKjld)  密码：igig
 
-- [极客时间相关教程](https://pan.baidu.com/share/init?surl=3xLQ2ejfHAK55TdjP7gT7Q) 密码: x4ec
-
 ## 免责申明
  - [GPL-3.0](https://github.com/maskleo/learning-resources/community/license/new?branch=master&template=gpl-3.0)
  - 所有资源来自互联网，本人不对内容的真实性，完整性，合法性负责。
